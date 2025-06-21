@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 Intelligent Document Processing API (Docling + Tesseract)
 
 A FastAPI-based backend that extracts text from uploaded documents (PDF, images, DOCX) using **Tesseract OCR** and **Docling**, and returns results in **JSON** or **Markdown** format.
